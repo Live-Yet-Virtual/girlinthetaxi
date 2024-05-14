@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b7654922851dce3f",
+        "id": "396ef2699376829b",
         "type": "tabs",
         "children": [
           {
-            "id": "48aa697bd9c8ee7b",
+            "id": "ee9df100dbd04a01",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
-              "state": {
-                "path": "/"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aa697bd9c8ee7b",
+  "active": "9b79981dbe67fa2d",
   "lastOpenFiles": [
     "base/reference/a4b7c7ebb00696fe4b942712888409c2.jpg",
     "base/reference/888c60a7ddca350102f65c887569c864.jpg",
