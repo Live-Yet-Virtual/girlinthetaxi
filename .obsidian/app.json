@@ -1,0 +1,10 @@
+{
+  "defaultViewMode": "preview",
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "base",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "base/reference",
+  "propertiesInDocument": "hidden"
+}

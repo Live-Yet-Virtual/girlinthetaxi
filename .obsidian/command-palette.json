@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "obsidian-git:open-git-view",
+    "obsidian-git:open-history-view",
+    "obsidian-git:commit-specified-message"
+  ]
+}
