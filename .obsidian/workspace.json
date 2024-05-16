@@ -11,8 +11,13 @@
             "id": "51fd85478610d2b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base/naming_convention.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/naming_convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base/naming_convention.md"
+              }
             }
           },
           {
@@ -138,16 +146,28 @@
   },
   "active": "51fd85478610d2b3",
   "lastOpenFiles": [
-    "base/reference.canvas",
+    "base/README.md",
+    "base/naming_convention.md",
+    "export/README.md",
+    "draft/audio/README.md",
+    "draft/video/README.md",
+    "draft/audio",
+    "draft/README.md",
+    "draft/video/Untitled.md",
+    "draft/3d/frames/README.md",
+    "draft/editing/video_editing.md",
+    "draft/video",
+    "draft/3d/README.md",
+    "draft/3d/frames",
+    "draft/2d/README.md",
+    "adhoc/README.md",
+    "adhoc/Untitled.md",
+    "concept/README.md",
+    "concept/composition.take001.jpg",
+    "concept/reference.canvas",
     "draft/Untitled 2.canvas",
     "draft/Untitled 1.canvas",
-    "draft/README.md",
-    "draft/2d/README.md",
-    "draft/3d/README.md",
     "exhibit/README.md",
-    "concept/README.md",
-    "base/README.md",
-    "adhoc/README.md",
     "draft/Untitled.canvas",
     "base/attachments/0aa8fae31a46307caa20021292d123ba.jpg",
     "base/attachments/bd997b8812b97387f3a23b9274085564.jpg",
