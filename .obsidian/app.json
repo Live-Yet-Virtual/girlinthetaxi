@@ -5,6 +5,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "base",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "base/reference",
-  "propertiesInDocument": "hidden"
+  "attachmentFolderPath": "base/attachments",
+  "propertiesInDocument": "hidden",
+  "userIgnoreFilters": [
+    "adhoc/*"
+  ],
+  "promptDelete": false,
+  "showInlineTitle": false
 }
