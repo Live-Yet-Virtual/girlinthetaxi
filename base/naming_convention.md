@@ -13,16 +13,16 @@
 	2. Beginning with the most general root
         1. It needs to uniquely identify the file within the current folder, and none higher
             1. If a file is moved after creation, edit the name if so required
-		1. Folders in apps with strict hierarchical organization qualify for this rule
+		2. Folders in apps with strict hierarchical organization qualify for this rule
 			- Like Krita, but unlike Blender with its taglike collections!
 	3. Then successively more specific segments
 		- For example, a characters model, then the section of the model, etc.
-5. Optionally, suffix segments if they’re variants — separated by . (period)
+4. Optionally, suffix segments if they’re variants — separated by . (period)
 	- For example, an apple prop begins as an red apple, but down the line we might need a version of it that’s green, or one that has been partially eaten; all of these are variants
 	1. There can be zero or more such variant suffixes
 		1. The order does not matter
-		1. But try to be consistent
-1. Optionally, if explicit ordering is needed, prefix those files and folders with zero-padded numbers separated by a `-` hyphen
+		2. But try to be consistent
+5. Optionally, if explicit ordering is needed, prefix those files and folders with zero-padded numbers separated by a `-` hyphen
 	- This is the only rule that allows the use of hyphens
 
 ## Example 
