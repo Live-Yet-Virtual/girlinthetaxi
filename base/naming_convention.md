@@ -22,6 +22,8 @@
 	1. There can be zero or more such variant suffixes
 		1. The order does not matter
 		1. But try to be consistent
+1. Optionally, if explicit ordering is needed, prefix those files and folders with zero-padded numbers separated by a `-` hyphen
+	- This is the only rule that allows the use of hyphens
 
 ## Example 
 
