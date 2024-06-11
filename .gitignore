@@ -16,6 +16,7 @@ draft/3d/frames
 *.bak
 *.tmp
 
-*.kra~
+*.kra~*
+*.kra-autosave*
 *.blend[0-9]*
-*.kate-swp
+*.kate-swp*
